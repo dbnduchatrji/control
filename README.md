@@ -1,4 +1,4 @@
-# control.vehicle-control
+# My experiments with different control systems and plants
 
 ## Inverted pendulum control using MPC controller 
 
