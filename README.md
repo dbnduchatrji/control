@@ -7,5 +7,7 @@
 ## Self Balancing Robot
 
 ![](/media/without_control_system.gif)
+![](/media/with_PID.gif)
+![](/media/position.gif)
 
 
