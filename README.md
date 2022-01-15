@@ -1,4 +1,4 @@
-# My experiments with different control systems and plants
+# Experiments with different control systems and plants
 
 ## Inverted pendulum control using MPC controller 
 
